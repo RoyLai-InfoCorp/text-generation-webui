@@ -1,0 +1,1 @@
+python server.py --no-stream --model Luna-AI-Llama2-Uncensored-GPTQ --loader exllama_hf --wbits 4 --groupsize 128 --chat

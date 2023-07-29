@@ -1,0 +1,1 @@
+python server.py --model Luna-AI-Llama2-Uncensored-GPTQ --loader exllama_hf --wbits 4 --groupsize 128 --extensions api
